@@ -58,6 +58,7 @@ Completed! Thank you, [@Fighters91](https://github.com/Fighters91). (See [#5](ht
 
 Corrected by [@Myalgul](https://github.com/Myalgul) (See [#6](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/6) and [#13](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/13))
 , and [@Chaxiraxi](https://github.com/Chaxiraxi) (See [#21](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/21))
+, and completely reworked by [@LaraNanuq](https://github.com/LaraNanuq) (See [#28](https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/pull/28))
 , thank you.
 
 ### EN -> DE
