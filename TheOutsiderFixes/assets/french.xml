@@ -1442,7 +1442,7 @@
   </entry>
   <entry>
     <key>FRIEND: The controls raising our Prisoner’s submerged structure out of our Vessel’s water were destroyed, by one of our elders at some point.</key>
-    <value>AMI : Les commandes permettant de sortir de l'eau la structure de notre Prisonnier ont été détruites,par l'un de nos aînés, à un moment donné.</value>
+    <value>AMI : Les commandes permettant de sortir de l'eau la structure de notre Prisonnier ont été détruites par l'un de nos aînés, à un moment donné.</value>
   </entry>
   <entry>
     <key>FRIEND: Raising it outside also raises the simulated version of the structure, allowing access to the underground from within the simulation (and letting our Prisoner leave to join the rest of the decayed when freed).</key>
